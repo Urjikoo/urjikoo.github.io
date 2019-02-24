@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head> <Style>
-<style>
+p{
 #style1 {
   background-image: url(img_flwr.gif), url(paper.gif);
   background-position: right bottom, left top;
@@ -15,3 +12,4 @@
 
 
 <div id="style1"></div>
+}
