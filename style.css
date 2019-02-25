@@ -1,10 +1,13 @@
-p{
-#style1 {
-  background-image: url(img_flwr.gif), url(paper.gif);
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
-  padding: 15px;
+<head>
+<style>
+div {
+  border: 5px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
 }
+</style>
+</head>
+<body>
 </style>
 </head>
 <body>
