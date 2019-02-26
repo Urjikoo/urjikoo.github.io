@@ -8,7 +8,7 @@ body{
 .container{
   width:75%;
   margin:auto;
-.box-1{ 
+box-1{ 
   background-color: lightgrey;
   width:75%;
   border: 15px green;
