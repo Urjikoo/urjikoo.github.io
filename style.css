@@ -10,5 +10,5 @@ body{
   margin:auto;
 .box-1{
   background-color:lightgrey;
-  border-right:10px red solid;
+  border: 10px redsolid;
   }
