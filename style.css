@@ -8,7 +8,7 @@ body{
 .container{
   width:75%;
   margin:auto;
-.style-1{
+.box-1{
   background-color:lightgrey;
   border-right:10px red solid;
   }
