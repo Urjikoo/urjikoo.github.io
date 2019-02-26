@@ -5,3 +5,10 @@ body{
   background-color:lightgrey;
     font-family: Arial, Helvetica, sans-serif;
 }
+.container{
+  width:75%;
+  margin:auto;
+.style-1{
+  background-color:lightgrey;
+  border-right:10px red solid;
+  }
