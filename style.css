@@ -4,7 +4,6 @@ h1{
 body{
      font-family: Arial, Helvetica, sans-serif;
       background-color: lightgrey;
-  background-image: url("https://images.pexels.com/photos/1192327/pexels-photo-1192327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-repeat: repeat-x;
   width: 55%px;
   border:9px solid blue;
