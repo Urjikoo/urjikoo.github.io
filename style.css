@@ -1,16 +1,18 @@
 h1{
-  color:blue;
+  color:darkblue;
 }
 body{
   background-color:lightgrey ;
     font-family: Arial, Helvetica, sans-serif;
+}
+.container {
   width:75%;
   margin:auto;
   border:15px green;
   padding:25px;
   margin:auto;
 }
-box-1{
+.style-1{
   background-color: lightgrey;
   width:75%;
   border: 15px green;
