@@ -6,7 +6,7 @@ body{
       background-image:url("https://images.pexels.com/photos/736751/pexels-photo-736751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-repeat:2x;
   width: 55%px;
-  border:9px #4C031B ;
+  border:9px color: #4C031B ;
   padding: 5px;
   margin: 55px;;
 }
