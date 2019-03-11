@@ -4,7 +4,7 @@ h1{
 body{
      font-family: Arial, Helvetica, sans-serif;
       background-image:url("https://images.unsplash.com/photo-1537526045572-fca8beed2a4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
-  background-repeat:2x;
+  background-repeat:norepeat;
   width: 55%px;
   border:9px black ;
   padding: 5px;
